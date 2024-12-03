@@ -133,7 +133,7 @@ EMAIL_PORT  = 587
 EMAIL_USE_TLS = True
 
 EMAIL_HOST_USER = "zia@mbstu.ac.bd"
-EMAIL_HOST_PASSWORD ="3!*131@BWNOAllah"
+EMAIL_HOST_PASSWORD ="**********"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
